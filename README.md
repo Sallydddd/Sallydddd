@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sallydddd
+-  Hi, I’m @Sallydddd
 
 
 <!---
