@@ -1,5 +1,6 @@
 -  Hi, I’m Sally...
 -  not salty..
+-  right
 
 <!---
 Sallydddd/Sallydddd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
